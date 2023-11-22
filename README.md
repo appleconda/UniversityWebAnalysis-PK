@@ -6,3 +6,5 @@ This project does the following tasks
    - Number of Connected component
    - Top 10 Nouns with highest degree and their degree value
    - Print all nouns that are available on a distance <5 from the noun "quality" for each university the selected pages must contain "quality".
+   
+![WhatsApp Image 2023-11-22 at 08 59 06](https://github.com/appleconda/UniversityWebAnalysis-PK/assets/86022669/0258b78e-ff4d-42e7-8fe3-0d7055cc0ff4)
